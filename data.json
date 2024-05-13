@@ -1,0 +1,40 @@
+[
+  {
+    "city": "New York",
+    "properties": [
+      {
+        "address": "123 Main St",
+        "price": "$500,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 2000
+      },
+      {
+        "address": "456 Elm St",
+        "price": "$750,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 2800
+      }
+    ]
+  },
+  {
+    "city": "Los Angeles",
+    "properties": [
+      {
+        "address": "789 Oak St",
+        "price": "$600,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 2200
+      },
+      {
+        "address": "101 Pine St",
+        "price": "$800,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 3000
+      }
+    ]
+  }
+]
